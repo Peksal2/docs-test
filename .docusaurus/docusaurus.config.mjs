@@ -29,7 +29,7 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/lt/",
+  "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
