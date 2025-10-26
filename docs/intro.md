@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+access: intro
 ---
 
 # Tutorial Intro

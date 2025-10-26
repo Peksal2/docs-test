@@ -1,0 +1,31 @@
+{
+  "defaultLocale": "en",
+  "locales": [
+    "en",
+    "lt"
+  ],
+  "path": "i18n",
+  "currentLocale": "lt",
+  "localeConfigs": {
+    "en": {
+      "label": "English",
+      "direction": "ltr",
+      "htmlLang": "en",
+      "calendar": "gregory",
+      "path": "en",
+      "translate": false,
+      "url": "https://your-docusaurus-site.example.com",
+      "baseUrl": "/"
+    },
+    "lt": {
+      "label": "Lietuvių",
+      "direction": "ltr",
+      "htmlLang": "lt",
+      "calendar": "gregory",
+      "path": "lt",
+      "translate": false,
+      "url": "https://your-docusaurus-site.example.com",
+      "baseUrl": "/lt/"
+    }
+  }
+}

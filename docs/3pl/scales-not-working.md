@@ -3,6 +3,7 @@ id: scales-not-working
 title: Scales Not Working (Fix)
 sidebar_label: Scales Not Working
 description: Steps to fix scale connection issues in Shipstation Connect.
+access: warehouse
 ---
 
 # 🧰 Scales Not Working (Fix)

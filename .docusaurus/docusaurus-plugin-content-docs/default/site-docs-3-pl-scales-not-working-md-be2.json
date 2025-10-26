@@ -1,0 +1,26 @@
+{
+  "id": "3pl/scales-not-working",
+  "title": "Scales Not Working (Fix)",
+  "description": "Steps to fix scale connection issues in Shipstation Connect.",
+  "source": "@site/docs/3pl/scales-not-working.md",
+  "sourceDirName": "3pl",
+  "slug": "/3pl/scales-not-working",
+  "permalink": "/lt/docs/3pl/scales-not-working",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3pl/scales-not-working.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "scales-not-working",
+    "title": "Scales Not Working (Fix)",
+    "sidebar_label": "Scales Not Working",
+    "description": "Steps to fix scale connection issues in Shipstation Connect.",
+    "access": "warehouse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/lt/docs/tutorial-extras/translate-your-site"
+  }
+}
