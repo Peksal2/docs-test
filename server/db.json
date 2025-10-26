@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "8aaaa09a-e949-497e-8e59-9158eb5f9f83",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "passwordHash": "$2a$10$0BoBzuRJPJTs27J06bXul.onGIF166Z88YNxiYH/S/c26rIDtPWeC",
+      "access": ["warehouse", "intro"],
+      "comment": "Seeded admin user",
+      "createdAt": "2025-10-26T12:43:29.488Z"
+    }
+  ]
+}
