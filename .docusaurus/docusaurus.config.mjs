@@ -29,12 +29,12 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/lt/",
+  "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
   "clientModules": [
-    "/tmp/cc-agent/59240120/project/src/theme/Root.tsx"
+    "/home/project/src/theme/Root.tsx"
   ],
   "i18n": {
     "defaultLocale": "en",
